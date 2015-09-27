@@ -1,4 +1,4 @@
-##calculates the inverse of a matrix, which can take a long time. 
+##calculates the inverse of the matrix, which can take a long time. 
 #Cache the inverse of a matrix rather than compute it repeatedly 
 #this pair of functions will caculate and cache the inverse of a matrix
 
